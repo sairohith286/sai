@@ -1,0 +1,6 @@
+{
+  "name": "Campus ID",
+  "description": "A minimal, modern website that allows students to enter personal and academic information and instantly generate a professional digital college ID card.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
